@@ -13,4 +13,4 @@ specify necessary screws
 Add photos of an actual assembly
 
 ## Assembly
-![Assy.jpeg](Assy.jpeg){:height="75%" width="75%"}
+![Assy.jpeg](Assy.jpeg)
