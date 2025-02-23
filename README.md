@@ -36576,5 +36576,4 @@ solid Mesh
     endloop
   endfacet
 endsolid Mesh
-
 ```
