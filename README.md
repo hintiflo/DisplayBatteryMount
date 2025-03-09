@@ -12,5 +12,12 @@ specify necessary screws
 
 Add photos of an actual assembly
 
-## Assembly
-![Assy.jpeg](Assy.jpeg)
+## Assembled in CAD
+![Assy.jpeg](images/Assy.jpeg){width=50%}
+
+## Assembled in reality
+![Assy.jpeg](images/angled.JPG){width=50%} \
+
+![Assy.jpeg](images/back.JPG){width=25%} ![Assy.jpeg](images/front.JPG){width=25%} \
+
+![Assy.jpeg](images/left.JPG){width=25%} ![Assy.jpeg](images/right.JPG){width=25%}
